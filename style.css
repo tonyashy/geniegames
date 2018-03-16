@@ -444,6 +444,14 @@ p {
     z-index: 3;
 }
 
+.logo {
+    width: 400px;
+}
+
+.intro p {
+    color: #fff;
+}
+
 .get-start-area .email {
     background: #9572e8;
     height: 50px;
@@ -527,7 +535,8 @@ p {
 }
 
 .wellcome-heading {
-    margin-bottom: 100px;
+    margin-bottom: 40px;
+    text-align: center;
 }
 
 /* --------------------------
@@ -687,7 +696,7 @@ p {
     background-size: cover;
     border: 20px solid #fff;
     border-radius: 20px;
-    height: 650px;
+    height: 500px;
     -webkit-box-shadow: 0 10px 50px rgba(0, 0, 0, 0.08);
     box-shadow: 0 10px 50px rgba(0, 0, 0, 0.08);
 }
